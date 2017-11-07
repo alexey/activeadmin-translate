@@ -15,6 +15,5 @@ Gem::Specification.new do |gem|
   gem.license       = 'MIT'
 
   gem.add_dependency 'activeadmin'
-  gem.add_dependency 'globalize'
   gem.add_dependency 'railties'
 end
