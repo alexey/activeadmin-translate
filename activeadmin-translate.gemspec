@@ -13,7 +13,6 @@ Gem::Specification.new do |gem|
   gem.require_paths = %w(lib)
   gem.version       = ActiveAdmin::Translate::VERSION
   gem.license       = 'MIT'
-
-  gem.add_dependency 'activeadmin'
+  
   gem.add_dependency 'railties'
 end
